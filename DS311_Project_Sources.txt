@@ -1,0 +1,16 @@
+Project Sources:
+
+Kaggle dataset - https://www.kaggle.com/datasets/emadehsan/rectangular-maze-kruskals-spanning-tree-algorithm/code
+
+Reinforcement Learning - https://d1wqtxts1xzle7.cloudfront.net/6985553/ivry_rev-libre.pdf?1390849262=&response-content-disposition=inline%3B+filename%3DReinforcement_learning.pdf&Expires=1745447584&Signature=d1MIDQkdBprSD9qe9aP8a4rEVlPyD7ySjxG~2a4xCxlHFR0fZO3-rLVMJYhp5J2F7xIR49a90rhQn-pC6-sRMk0t4zUUtTQ0dJqOPE2AWP3cn~dNrJX5Yd1q9TBiNde7UICJXCy4kUyQBx8rLhUUpTOsM~TMlXP~BgDbLQweVBLvsBCEM8NO8Q-MUgluNlNrllrBJ9wHqKUJxvE6TPkgchsBVNGH5IhpBmi-U9ekGTbp7S2M6QzyVWKtttk7eGXkXrvan-VgyoTDAwvye420jHbceZy2sK2Piam74w~asAlc6Dw~s9T2slR1GUN5~Ofr~87nW1wZZItKPlKx8KhJMg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+Reinforcement Learning in Robotics - https://www.mdpi.com/2218-6581/2/3/122
+
+Intro to Reinforcement Learning [Medium] - https://medium.com/@hsinhungw/intro-to-reinforcement-learning-monte-carlo-to-policy-gradient-1c7ede4eed6e
+
+Monte Carlo Simulation [AWS] - https://aws.amazon.com/what-is/monte-carlo-simulation/#:~:text=The%20Monte%20Carlo%20simulation%20is,on%20a%20choice%20of%20action.
+
+Monte Carlo Policy Evaluation [GeeksforGeeks] - https://www.geeksforgeeks.org/monte-carlo-policy-evaluation/
+
+Modern Reinforcement Learning [Modern] - https://medium.com/@harshal.dhandrut/a-complete-guide-to-modern-reinforcement-learning-from-basics-to-ppo-6474b0fd24d0
+
