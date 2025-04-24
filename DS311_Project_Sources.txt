@@ -14,3 +14,11 @@ Monte Carlo Policy Evaluation [GeeksforGeeks] - https://www.geeksforgeeks.org/mo
 
 Modern Reinforcement Learning [Modern] - https://medium.com/@harshal.dhandrut/a-complete-guide-to-modern-reinforcement-learning-from-basics-to-ppo-6474b0fd24d0
 
+Psychology's Game Theory - https://www.simplypsychology.org/game-theory.html
+
+Robert Gibbon's A Primer in Game Theory - https://d1wqtxts1xzle7.cloudfront.net/33690404/A_Primer_in_Game_Theory-_Gibbons-libre.pdf?1399988388=&response-content-disposition=inline%3B+filename%3DA_Primer_in_Game_Theory_Contents.pdf&Expires=1745528314&Signature=VrEIpDQryVNwagOynrdJ~~V~3IEscXuGIozQ27PEORxF8bG~x-uJ8s3KDkB2L0KlveC5Np9m~G88iUMWsLOCzT2aO4E9kpz1DJ-jl2O4JjbXuvopkcUqgDumeiXsgjmP-Q31CRe-WdmFtA3R28IAWCnA3KzIqfQ52A1AcPpRfILmHuq~Nar2YW8quTPnBFIDxKBCraZ3PEaclwIZ4OszEooUKD9frVZ2aGrgKY93lIQOW93P7ZIDEgns5CiR6zbMbrSDMz2hI6GunEjVJ3KUv4fFTSg66rmGjSZ~52xNFQCfUJL~UpH5iDXooFfhtK-3BtWacZuoZP3cSFr~eO2asw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
+
+Reinforcement Learning [Stanford] - https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf
+
+
+
