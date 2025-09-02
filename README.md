@@ -16,11 +16,13 @@ Throughout the project, a number of factors impacted the results. Rather than se
 
 ## How to Access, Install, and Run the Project
 
-
+To accesss the open-source maze dataset, visit the [Kaggle page](https://www.kaggle.com/datasets/emadehsan/rectangular-maze-kruskals-spanning-tree-algorithm/code) and create a local download of the image files. To run the Python code, download the [Anaconda app](https://anaconda.org/) and open the file in Jupyter Notebooks to run each cell. In line three of the second cell, the hard coded file path to the .png maze files will need to be customized to the user's computer. After tuning the filepath, the algorithm will run on the file's third cell.
 
 ## How to Contribute
 
-
+To contribute to this work, please fork off the repository or email rla00009@mix.wvu.edu with questions, comments, or updates.
 
 ## Tests and Outcomes
+
+After applying the algorithm to simple square mazes, the results were formalized in a research symposium poster and presented to a series of judges. The poster and results can be found in the Symposium_Poster.png file.
 
